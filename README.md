@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamiroKord
 - 👀 I’m interested in software development, artificial intelligence, and game development.
-- 🌱 I’m currently learning Python, and web development with Django.
+- 🌱 I’m currently learning Python, and web development with Flask.
 - 💞️ I’m looking to collaborate on any Python projects.
 - 📫 How to reach me: ramiroxcv@gmail.com.
 
