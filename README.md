@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @RamiroKord
-- 👀 I’m interested in software development, artificial intelligence, and game development.
-- 🌱 I’m currently learning Python, and web development with Flask.
-- 💞️ I’m looking to collaborate on any Python projects.
+- 👋 Hi, I’m @RamiroKord.
+
+- 👀 I’m a software developer in two major areas of work:
+1️⃣ A.I. programming for NPC behavior (in the context of game development);
+2️⃣ Data sciences and data manipulation.
+
+- 💪 My main languages are C++ and Python.
+
+- 🌐 Speaker of English, French, and Portuguese.
+
 - 📫 How to reach me: ramiroxcv@gmail.com.
 
 <!---
