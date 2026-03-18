@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @RamiroKord.
 
-- 👀 I’m a software developer in two major areas of work:
-1️⃣ A.I. programming for NPC behavior (in the context of game development);
-2️⃣ Data sciences and data manipulation.
+- 👀 I’m a software developer working at three major areas of work:
+1. Web development;
+2. A.I. programming for NPC behavior (in the context of game development);
+3. Data sciences and data manipulation.
 
-- 💪 My main languages are C++ and Python.
+- 💪 My main languages are Python, JavaScript, C++.
 
 - 🌐 Speaker of English, French, and Portuguese.
 
